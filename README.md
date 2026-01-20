@@ -120,7 +120,9 @@ Students are encouraged to understand the design and logic before using it for a
 👨‍💻 Author
 
 Kapakayala Siva Sai Pavan
-BS (Hons) Computer Science
-Sri Sathya Sai Institute of Higher Learning (SSSIHL)
+
+-BS (Hons) Computer Science
+
+-Sri Sathya Sai Institute of Higher Learning (SSSIHL)
 
 If you find this project useful, feel free to ⭐ star the repository.
